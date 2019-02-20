@@ -1,0 +1,16 @@
+<root>
+    <foo> This is a text example </foo>
+    <foo> This is another text example </foo>
+    <foo>
+        <bar> ABC </bar>
+    </foo>
+    <foo>
+        <bar> XYZ </bar>
+    </foo>
+    <foo>
+        <bar> 123 </bar>
+        <buzz> ignore me </buzz>
+    </foo>
+    <buzz> hello world </buzz>>
+    <foo></foo>
+</root>
